@@ -35,9 +35,12 @@ Bu Streamlit uygulaması, kullanıcıların bir resim yüklemesini, GrabCut algo
 
 ## Sample Images | Örnek Görseller:
 
-![Sample Image 1](https://github.com/user-attachments/assets/321f4457-ea0b-4536-bbc3-b40129470977)  
-![Sample Image 2](https://github.com/user-attachments/assets/2085164b-1a18-4761-bd54-5b84f72d5430)  
-![Sample Image 3](https://github.com/user-attachments/assets/62bbbc3d-d998-46e2-b365-18e219f0a185)  
+![Ekran Görüntüsü 2025-01-19 15-28-12](https://github.com/user-attachments/assets/d130ca43-031e-45ce-8e0d-fa5a7c543d60)
+
+
+![Ekran Görüntüsü 2025-01-19 15-28-35](https://github.com/user-attachments/assets/5d8890f9-6eeb-408b-a446-9dd9776391da)
+
+![Ekran Görüntüsü 2025-01-19 15-28-47](https://github.com/user-attachments/assets/41f40c17-1526-49ec-b8a7-015596a81af2)
 
 ---
 
