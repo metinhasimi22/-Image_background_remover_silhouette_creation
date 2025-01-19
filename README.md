@@ -26,7 +26,8 @@ Aşağıda uygulamanın çalışma örneklerini görebilirsiniz:
 
 | **Original Image** | **Background Removed** | **Silhouette** |
 |--------------------|------------------------|----------------|
-| ![Original Image](https://github.com/user-attachments/assets/d130ca43-031e-45ce-8e0d-fa5a7c543d60) | ![Background Removed](https://github.com/user-attachments/assets/5d8890f9-6eeb-408b-a446-9dd9776391da) | ![Silhouette](https://github.com/user-attachments/assets/41f40c17-1526-49ec-b8a7-015596a81af2) |
+| ![Original Image](https://github.com/user-attachments/assets/d130ca43-031e-45ce-8e0d-fa5a7c543d60) | ![Background Removed](https://github.com/user-attachments/assets/a77f18d9-6fc1-491b-b338-c1d09f02de4e) | ![Silhouette](https://github.com/user-attachments/assets/41f40c17-1526-49ec-b8a7-015596a81af2) |
+
 
 ---
 
