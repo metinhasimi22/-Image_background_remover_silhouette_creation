@@ -46,4 +46,6 @@ Bu Streamlit uygulaması, kullanıcıların bir resim yüklemesini, GrabCut algo
 
 ## Project Link | Proje Bağlantısı:
 
-- **Hugging Face:** [Image Background Remover and Silhouette Creation](https://huggingface.co/spaces/Metinhsimi/Image_background_remover_silhouette_creation)  
+- **Hugging Face:** [Image Background Remover and Silhouette Creation](https://huggingface.co/spaces/Metinhsimi/Image_background_remover_silhouette_creation)
+
+- **Streamlit:** : https://metinproject.streamlit.app/
