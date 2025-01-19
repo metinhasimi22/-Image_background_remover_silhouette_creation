@@ -6,3 +6,7 @@ This Streamlit app allows users to upload an image, remove the background using 
 1. Upload an image.
 2. The app will automatically remove the background and show the silhouette.
 3. You can download the resulting image.
+
+
+sample image about project:
+
